@@ -77,7 +77,7 @@ public class SetmealController {
     /**
      * 批量起售、停售套餐
      * @param status
-     * @param ids
+     * @param id
      * @return
      */
     @PostMapping("/status/{status}")
